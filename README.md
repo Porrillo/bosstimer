@@ -1,4 +1,4 @@
-Metacene Boss Timer 0.1
+Metacene Boss Timer
 O Metacene Boss Timer é uma ferramenta simples e eficiente para rastreamento de bosses no jogo Metacene. Este temporizador foi desenvolvido para ajudar os jogadores a otimizar suas rotações e monitorar o respawn dos bosses com facilidade.
 
 Hotkeys: 
