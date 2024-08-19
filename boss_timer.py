@@ -184,22 +184,22 @@ discord_label.grid(row=0, column=0, padx=10, pady=10, sticky='nw')
 
 boss_timers = [
     # Rotação de Cima
-    BossTimer(root, "C:/Users/new/Documents/python/adriano.png", "C:/Users/new/Documents/python/sound.mp3", "Adriano", 1, 0, "cima"),
-    BossTimer(root, "C:/Users/new/Documents/python/cesafilho.png", "C:/Users/new/Documents/python/sound.mp3", "César Filho", 1, 1, "cima"),
-    BossTimer(root, "C:/Users/new/Documents/python/cristiano.png", "C:/Users/new/Documents/python/sound.mp3", "Cristiano", 2, 0, "cima"),
-    BossTimer(root, "C:/Users/new/Documents/python/serpent.png", "C:/Users/new/Documents/python/sound.mp3", "Serpente", 2, 1, "cima"),
-    BossTimer(root, "C:/Users/new/Documents/python/robo.png", "C:/Users/new/Documents/python/sound.mp3", "Robô da Blaze", 3, 0, "cima"),
-    BossTimer(root, "C:/Users/new/Documents/python/peixeilha.png", "C:/Users/new/Documents/python/sound.mp3", "Peixe Ilha", 3, 1, "cima"),
+    BossTimer(root, "C:/Users/new/Documents/python/adriano.png", "C:/Users/new/Documents/python/sound.mp3", "Adv cris spirit", 1, 0, "cima"),
+    BossTimer(root, "C:/Users/new/Documents/python/cesafilho.png", "C:/Users/new/Documents/python/sound.mp3", "Ironclad monkey", 1, 1, "cima"),
+    BossTimer(root, "C:/Users/new/Documents/python/cristiano.png", "C:/Users/new/Documents/python/sound.mp3", "Cris spirit", 2, 0, "cima"),
+    BossTimer(root, "C:/Users/new/Documents/python/serpent.png", "C:/Users/new/Documents/python/sound.mp3", "Green-winged serpent", 2, 1, "cima"),
+    BossTimer(root, "C:/Users/new/Documents/python/robo.png", "C:/Users/new/Documents/python/sound.mp3", "Mechanoid", 3, 0, "cima"),
+    BossTimer(root, "C:/Users/new/Documents/python/peixeilha.png", "C:/Users/new/Documents/python/sound.mp3", "Scourge Mid", 3, 1, "cima"),
 
     # Rotação de Baixo
-    BossTimer(root, "C:/Users/new/Documents/python/polvoverde.png", "C:/Users/new/Documents/python/sound.mp3", "Polvo Verde", 8, 0, "cima"),
-    BossTimer(root, "C:/Users/new/Documents/python/polvobaixo.png", "C:/Users/new/Documents/python/sound.mp3", "Polvo Baixo", 8, 1, "baixo"),
-    BossTimer(root, "C:/Users/new/Documents/python/peixebaixo.png", "C:/Users/new/Documents/python/sound.mp3", "Peixe Baixo", 9, 0, "baixo"),
+    BossTimer(root, "C:/Users/new/Documents/python/polvoverde.png", "C:/Users/new/Documents/python/sound.mp3", "Octopus up", 8, 0, "cima"),
+    BossTimer(root, "C:/Users/new/Documents/python/polvobaixo.png", "C:/Users/new/Documents/python/sound.mp3", "Octopus down", 8, 1, "baixo"),
+    BossTimer(root, "C:/Users/new/Documents/python/peixebaixo.png", "C:/Users/new/Documents/python/sound.mp3", "scourge down", 9, 0, "baixo"),
 
     # Rotação de Direita
-    BossTimer(root, "C:/Users/new/Documents/python/treant.png", "C:/Users/new/Documents/python/sound.mp3", "Treant", 13, 0, "direita"),
-    BossTimer(root, "C:/Users/new/Documents/python/bat.png", "C:/Users/new/Documents/python/sound.mp3", "Morcego", 13, 1, "direita"),
-    BossTimer(root, "C:/Users/new/Documents/python/peixedireita.png", "C:/Users/new/Documents/python/sound.mp3", "Peixe Direita", 14, 0, "direita"),
+    BossTimer(root, "C:/Users/new/Documents/python/treant.png", "C:/Users/new/Documents/python/sound.mp3", "BlazeTreant", 13, 0, "direita"),
+    BossTimer(root, "C:/Users/new/Documents/python/bat.png", "C:/Users/new/Documents/python/sound.mp3", "Red ear bat", 13, 1, "direita"),
+    BossTimer(root, "C:/Users/new/Documents/python/peixedireita.png", "C:/Users/new/Documents/python/sound.mp3", "Scourge up", 14, 0, "direita"),
 ]
 
 hotkeys = [
